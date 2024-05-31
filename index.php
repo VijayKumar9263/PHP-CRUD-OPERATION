@@ -20,7 +20,7 @@ include ("connect.php")?>
             <label for="email">Email</label>
             <input type="email" id="email" name="email" required>
 
-            <label for="address">Address</label>
+            <label for="address">Address This Is the difference</label>
             <input type="text" id="address" name="address" required>
 
             <div class="submit">
